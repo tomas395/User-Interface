@@ -197,7 +197,9 @@ h5 {
 
 }
 
-.header-img {}
+.middle-img {
+	margin: 40px 0;
+}
 
 .get-started-button {
 	background: white;
@@ -205,20 +207,21 @@ h5 {
 	padding: 5px 40px;
 }
 
-.top-content {
-	display: inline-block;
+section {
+	display: block;
+	margin: 40px 0;
+}
+
+.column-50 {
+	float: left;
 	width: 50%;
 }
 
-.left-text {
-	display: inline-block;
-	width: 50;
+.column-33 {
+	float: left;
+	width: 33%;
 }
 
-.right-text {
-	display: inline-block;
-	width: 50%;
-}
 
 .bottom-content {
 	display: inline-block;
