@@ -172,8 +172,9 @@ h5 {
 
 .navigation a {
 	display: inline-block;
-
-
+	color: grey;
+	text-decoration: none;
+	margin: 14px 57px 15px 0;
 }
 
 .navi-logo {
