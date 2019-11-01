@@ -207,7 +207,17 @@ h5 {
 
 .top-content {
 	display: inline-block;
-	width: 33%;
+	width: 50%;
+}
+
+.left-text {
+	display: inline-block;
+	width: 50;
+}
+
+.right-text {
+	display: inline-block;
+	width: 50%;
 }
 
 .bottom-content {
@@ -215,8 +225,25 @@ h5 {
 	width: 33%;
 }
 
-.contact {}
+.l-bottom-text {
+	display: inline-block;
+	width: 33%;
+
+}
+
+.middle-bottom-text {
+	display: inline-block;
+	width: 33%;
+}
+
+.r-bottom-text {
+	display: inline-block;
+	width: 33%;
+
+}
+
 
 .footercopyright {
 	font-size: 13px;
+	text-align: center;
 }
